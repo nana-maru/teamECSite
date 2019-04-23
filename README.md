@@ -12,10 +12,6 @@ In Destination infomation registration function,when you purchase the product,yo
 商品一覧機能では、データベースに登録されている商品を閲覧できます。商品画像や商品名をクリックすることで、商品詳細ページに遷移できます。
 宛先情報登録機能では、商品購入の際に商品を郵送する宛先を、商品ごとに登録することができます。
 
-## Licence
-
-[](https://github.com/)
-
 ## Author
 
 [nana-maru](https://github.com/nana-maru)
