@@ -2,17 +2,12 @@ ECsite
 ====
 
 ## Overview
-In developing EC site on team,I am in charge of Product list display function and Destination information registration funvtion.
-
-ECサイトをチームで開発するにあたり、商品一覧機能及び宛先情報登録機能の開発を担当しました。
+12機能(ユーザー登録機能、ログイン認証機能、パスワード再設定機能、商品一覧・詳細機能、商品検索機能、カート機能、宛先情報選択機能、宛先情報登録機能、決済完了機能、マイページ機能、商品購入履歴機能、ログアウト機能)から構成されるECサイト。
 
 ## Description
-In Product list display function,you can see the products which were registed in database.By cricking the product image or the name of product, you can move to the page which display the product detail. 
-In Destination infomation registration function,when you purchase the product,you can regist each destination where the product send.
-
-商品一覧機能では、データベースに登録されている商品を閲覧できます。商品画像や商品名をクリックすることで、商品詳細ページに遷移できます。
+商品一覧機能は、ヘッダーの「商品一覧」ボタンから利用でき、データベースに登録されている商品を1行3つずつ表示します。また、商品画像や商品名をクリックすることで、商品詳細ページに遷移できます。
+商品詳細機能では、購入する商品の個数をプルダウンメニューから選択し、カートに追加
 宛先情報登録機能では、商品購入の際に商品を郵送する宛先を、商品ごとに登録することができます。
 
 ## Author
-
 [nana-maru](https://github.com/nana-maru)
