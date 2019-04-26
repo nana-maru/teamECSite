@@ -1,5 +1,4 @@
-Product List display function and Product details display function and Destination information registration function
-商品一覧機能・商品詳細機能　及び　宛先情報登録機能
+ECsite
 ====
 
 ## Overview
