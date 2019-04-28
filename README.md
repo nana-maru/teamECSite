@@ -14,5 +14,7 @@ ECサイトのうち、商品一覧・詳細機能と宛先情報登録機能を
 また、宛先情報確認画面から宛先情報入力画面に戻る場合に入力していた情報をセッションを用いて表示します。
 宛先情報登録が完了した後は、決済確認画面に自動で遷移し、買い物を続けることができます。
 
+![Untitled](https://user-images.githubusercontent.com/47590805/56865772-b4fad500-6a0c-11e9-8f3d-294fa8abfaea.png)
+
 ## 作者
 [nana-maru](https://github.com/nana-maru)
