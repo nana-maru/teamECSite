@@ -16,5 +16,7 @@ ECサイトのうち、商品一覧・詳細機能と宛先情報登録機能を
 
 ![Untitled](https://user-images.githubusercontent.com/47590805/56865772-b4fad500-6a0c-11e9-8f3d-294fa8abfaea.png)
 
+![Untitled](https://user-images.githubusercontent.com/47590805/56899322-2189d880-6ace-11e9-9c7d-72c199bcc0d3.png)
+
 ## 作者
 [nana-maru](https://github.com/nana-maru)
